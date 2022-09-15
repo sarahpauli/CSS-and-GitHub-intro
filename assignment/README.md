@@ -48,6 +48,8 @@ You will make **ONLY these changes** in the HTML file:
 All of those tags are covered in your textbook and also in [this
 video on YouTube](https://www.youtube.com/watch?v=5ROw8pNE0qc). The video will be very helpful. If you misuse the tags, it will affect your grade.
 
+**NOTE:** You will not see any obvious changes in the browser until *after you have added CSS styles* to `header`, `footer`, `article`, and `aside`.
+
 Do not make any other changes to the HTML — only those six.
 
 ## Your color palette
