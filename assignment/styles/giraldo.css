@@ -1,0 +1,74 @@
+/*  ADD your styles below --- WHERE INDICATED ---
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #FFDCE8; /* must change */
+    color: #000; /* may be #000 or #fff */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete or change */
+    background-color: #E8DFF5;
+    /* there is nowhere in my site that black text doesn't contrast, so I added dark blue article text to prove that I understand the concept */
+    color: #353D5C;
+}
+
+/* --- ADD YOUR STYLES BELOW --- */
+
+figure {
+  background: #C6D6BF;
+}
+
+header {
+  background: #E6B3CB;
+}
+
+footer {
+  background: #E6B3CB;
+}
+
+aside {
+  background: #FFDCE8;
+}
+
+/* --- add your PSEUDO CLASSES below this line --- */
+
+a:link {
+  color: #0B537D;
+}
+a:visited {
+  color: #4A0963;
+}
+a:focus {
+  color: #05223B;
+}
+a:hover {
+  color: #750F61;
+}
+a:active {
+  color: #0D5CA0;
+}
+
+/* footer link colors (my footer links do not need extra contrast, I am just adding this to prove I understand the concept) */
+
+footer a:link {
+  color: #1C5717;
+}
+footer a:visited {
+  color: #4D3515;
+}
+footer a:focus {
+  color: #631943;
+}
+footer a:hover {
+  color: #2B3608;
+}
+footer a:active {
+  color: #674B13;
+}
