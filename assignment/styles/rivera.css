@@ -17,6 +17,8 @@ article {
     background: #E2B5F5
 }
 
+
+/* --- ADD YOUR STYLES BELOW --- */
 aside {
 background: #B699DE
 }
@@ -32,9 +34,6 @@ footer {
 figure {
   background: #DC99DE
 }
-
-/* --- ADD YOUR STYLES BELOW --- */
-
 /* --- add your PSEUDO CLASSES below this line --- */
 
 a:link {color: #68006e}
