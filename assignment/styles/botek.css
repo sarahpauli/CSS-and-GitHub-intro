@@ -4,10 +4,9 @@
     */
 
 body {
-    background: #333; /* must change */
+    background: #B79FF0; /* must change */
     color: #000; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
-    background: #B79FF0;
 }
 
 article {
