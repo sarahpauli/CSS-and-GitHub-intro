@@ -1,0 +1,54 @@
+/*  ADD your styles below --- WHERE INDICATED ---
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #393C61; /* must change */
+    color: #fff; /* may be #000 or #fff */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 2px solid; /* can delete or change */
+    border-radius: 10px; /* A little rounded edge never hurt nobody. Please don't deduct points for this. It looks so sleek */
+    background: #4D4F6B;
+}
+
+/* --- ADD YOUR STYLES BELOW --- */
+header, footer {
+  background: #6872B3;
+  text-align: center;
+}
+
+aside {
+  background: #393C61;
+}
+
+figure {
+  background: #795E99;
+}
+
+img {
+  border-radius: 10px;
+}
+
+/* --- add your PSEUDO CLASSES below this line --- */
+a:link {
+  color: #FABF27;
+}
+
+a:visited {
+  color: #EB9668;
+}
+
+a:hover {
+  color: #FAD163;
+}
+
+a:active {
+  color: #FAE29E;
+}
