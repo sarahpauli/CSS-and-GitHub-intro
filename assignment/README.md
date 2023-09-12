@@ -103,7 +103,7 @@ After you specify the text color for `body`, reload the page and look at each pa
 
 ### Pseudo classes
 
-The link pseudo-class selectors (`a` elements) are covered in chapter 13.
+The link pseudo-class selectors (`a` elements) are covered in chapter 13. They are *demonstated* in [this video](https://www.youtube.com/watch?v=otVUAinxGKk).
 
 Note that there are five (5) link pseudo classes, and there is a *required order* for putting them in your stylesheet.
 
