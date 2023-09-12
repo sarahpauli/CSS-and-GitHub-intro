@@ -146,9 +146,9 @@ Remember, **the focus of this assignment** is using CSS to apply color to specif
 
 ## Adjusting colors for pseudo classes
 
-You must use five different colors for the five pseudo classes for this assignment. You may ADD colors that are not in your palette (colors 1 through 4), but keep any added colors in the same color range.
+You must use five different colors for the five pseudo classes for this assignment. **You may ADD colors that are not in your palette** (colors 1 through 4), but be sure any added colors in the same color range. Do not just choose colors at random. Look at the palette below as a guide. The colors for all the pseudo classes are *closely related* &mdash; they are mostly various shades and hues of a single base color. 
 
-In [my video about styling the pseudo classes](https://www.youtube.com/watch?v=otVUAinxGKk), I used this palette for the five pseudo classes on a white background. It gives you an example of how the five colors for pseudo classes might all be similar.
+In [my video about styling the pseudo classes](https://www.youtube.com/watch?v=otVUAinxGKk), I used this palette for the five pseudo classes on a white background. It gives you an example of how the five colors for pseudo classes might all be similar. The video shows you exactly how the pseudo classes work.
 
 ![A five-color palette for link pseudo classes](../images/pseudo_class_palette.png)
 
@@ -170,4 +170,4 @@ Then go back to the top of this repo, where all files and folders are listed. Go
 
 Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
 
-**Note:** It says *<del>master</del> main* because it’s the website, GitHub.com. Your branch is only on your desktop right now.
+**Note:** It says *<del>master</del> main* because it’s the website, GitHub.com. **Your branch is only on your desktop right now.** That will change later, when you publish your branch. Then both branches will be online.
