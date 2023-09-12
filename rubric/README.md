@@ -46,7 +46,7 @@ All of the above. PLUS:
 
 * The CSS and HTML are formatted neatly. Use linespaces and indents like a professional so the code is easy to read.
 
-* All text, including all links, has good contrast against the background color, regardless of which element contains it.
+* All text, including all links, has **good contrast** against the background color, regardless of which element contains it.
 
 * You could show your final HTML and CSS files to anyone, not just your instructor.
 
