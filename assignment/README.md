@@ -16,7 +16,7 @@ CHECK THE APP. MAKE SURE YOUR “Current Branch” is your *assignment-yourname*
 
 <img src="../images/current_branch.png" alt="Current branch, in the app" width=715>
 
-In Atom: In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
+In your code editor (VS Code or Atom): In the *assignment* folder of the repo, you will open two files, *starter_file.html* and *first.css* (inside the *styles* folder).
 
 <img src="../images/atom-project-view.png" alt="Atom project view" width=820>
 
