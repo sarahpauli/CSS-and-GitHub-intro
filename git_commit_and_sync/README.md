@@ -47,6 +47,10 @@ By pushing, you make your remote repo (at GitHub) match your local repo (on your
 
 Look at your repo on **github.com** and check to see that your files are there, in the *assignment-yourname* branch, in the *assignment* folder.
 
+Make sure your repo is NOT private. If you see the word *Private* as shown below, you need to change that in the GitHub.com settings.
+
+<img src="../images/private_repo.png" alt="Example of a private repo" width=470>
+
 ## Check the rubric
 
 Make sure you have done everything listed in the [rubric](../rubric).
