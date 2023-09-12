@@ -16,7 +16,7 @@ The Branch button has the **branch icon**:
 
 ![GitHub branch icon](../images/git-branch.png)
 
-To the right of the Branch icon is the name of the current branch. Right now, that is *<del>master</del> main.* The first branch of a repo is always named *<del>master</del> main* by default. (The racist origin of the term *master* [inspired GitHub to change the name of the default branch to *main.*](https://www.bbc.com/news/technology-53050955) Screenshots here may still say *master.*)
+To the right of the Branch icon (in the app) is the name of the current branch. Right now, that is *main* or possibly *master.* The first branch of a new repo is always named *<del>master</del> main* by default. (The racist origin of the term *master* [inspired GitHub to change the name of the default branch to *main.*](https://www.bbc.com/news/technology-53050955) Screenshots here may still say *master,* and older repos at GitHub will still have a branch named *master* instead of one named *main.*)
 
 When you click the button that says *<del>master</del> main,* you’ll see a list of all the branches in this repo. Even now, *<del>master</del> main* has a checkmark to show you it is the current branch &mdash; the one you are in now. You have only one branch so far.
 
@@ -85,4 +85,4 @@ Remember to stay in your *assignment-yourname* branch! Do not switch branches ag
 
 Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
 
-**Note:** It says *<del>master</del> main* because it’s the website, GitHub.com. Your branch is only on your desktop right now.
+**Note:** It says *<del>master</del> main* because it’s the website, GitHub.com. **Your branch is only on your desktop right now.** That will change later, when you publish your branch. Then both branches will be online.
