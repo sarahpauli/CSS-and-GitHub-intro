@@ -20,11 +20,11 @@ article {
 /* --- ADD YOUR STYLES BELOW --- */
 
 header {
-    background: #C2573E;
+    background: #7C3727;
 }
 
 footer {
-    background: #C2573E;
+    background: #7C3727;
 }
 
 aside {
@@ -38,7 +38,7 @@ figure {
 /* --- add your PSEUDO CLASSES below this line --- */
 
 a:link {
-    color: #EE6B4D;
+    color: #A52312;
 }
 
 a:visited {
@@ -46,15 +46,15 @@ a:visited {
 }
 
 a:focus {
-    color: #D77E6F;
+    color: #C04A35;
 }
 
 a:hover {
-    color: #D68C72;
+    color: #B25534;
 }
 
 a:active {
-    color: #D66B62;
+    color: #C33E32;
 }
 
 
@@ -63,11 +63,11 @@ footer a:link {
 }
 
 footer a:visited {
-    color: #1AAEF5;
+    color: #68CAF8;
 }
 
 footer a:focus {
-    color: #39BEF4;
+    color: #90DBF9;
 }
 
 footer a:hover {
